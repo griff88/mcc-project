@@ -113,10 +113,16 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTINF:-1 tvg-id="TV3.kh" tvg-logo="https://i.imgur.com/76XWq08.png" group-title="",TV 3 Khmer
 https://edge6a.v2h-cdn.com/tv3cam/tv3cam.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV-16" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="General",CCTV-1*
+https://23.237.196.98:6443/live/CCTV1/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV-16" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="Sports",CCTV-5*
 https://23.237.196.98:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1 tvg-id="CCTV-16" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="Sports",CCTV-5+*
+#EXTINF:-1 tvg-id="CCTV-16" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="Sports",CCTV-5+*
 https://23.237.196.98:6443/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1 tvg-id="CCTV-16" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="General",CCTV-11*
+https://23.237.196.98:6443/live/CCTV11/hls.m3u8
+#EXTINF:-1 tvg-id="CCTV-16" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="General",CCTV-15*
+https://23.237.196.98:6443/live/CCTV15/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV-16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="Sports",CCTV-16*
 https://23.237.196.98:6443/live/CCTV16HD/hls.m3u8
 #EXTINF:-1 tvg-id="TVK.kh" tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="General",TVK
@@ -135,12 +141,6 @@ http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel91/ind
 http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel13/1300.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-5+体育赛事" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5
 http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel5/1300.m3u8
-#EXTINF:-1 group-title="央视台" tvg-id="CCTV-11戏曲" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png",CCTV-11
-http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel41/2300.m3u8
-#EXTINF:-1 group-title="央视台" tvg-id="CCTV-15音乐" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png",CCTV-15
-http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel40/1300.m3u8
-#EXTINF:-1 group-title="央视台" tvg-id="CCTV-4K超高清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png",CCTV-4K
-http://113.96.179.241/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF:-1 group-title="广东台" tvg-id="广东体育" tvg-logo="http://tv.haoqu99.com/d/file/2014/0718/20140718061617261.jpg",Guangzhou Tiyu
 http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
 #EXTINF:-1 group-title="广东台" tvg-id="深圳体育健康频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0612/20160612110619155.jpg",SZ Tiyu
